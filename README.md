@@ -31,3 +31,6 @@ The final outcome should look similar to the movie in this repo called [`expecte
 1. Add a `Posts` count.
 1. Add CSS
 # ICS-ToDoSort-Assignment
+
+## Contact Info
+if(You Like it || Did it help you in some way || Have any questions for me about it) { Feel free to call me at +91-8982814810 }
