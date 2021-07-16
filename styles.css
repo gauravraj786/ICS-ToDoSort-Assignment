@@ -1,0 +1,42 @@
+body {
+  background-color: #00aced;
+  font-size: 16px;
+  font-family: Roboto;
+}
+
+ul {
+  padding: 0 0 0 2.75em;
+}
+ul li {
+  list-style: none;
+  line-height: 1.7rem;
+  position: relative;
+  padding-bottom: 1rem;
+  color: #002f6c;
+}
+
+ul li:before {
+  content: "";
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: 50%;
+  background:#0079ff;
+  margin: 0 2em 0 -2.75em;
+}
+
+.appContainer {
+  width: 500px;
+  margin: auto;
+  padding: 32px 16px;
+}
+
+select {
+  width: 250px;
+  margin-left: 40px;
+  height: 36px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
